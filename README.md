@@ -22,7 +22,25 @@ This is my resarch capstone project in partnership with the Food and Drug Admini
 # Inference 
 * Encoder input: Gene from influenza B
 * Decoder input: padded <start> sequence
+* Output: Predicted evolved sequence, attention scores along the input sequence
 
 <img width="1296" alt="Screen Shot 2023-07-10 at 9 05 36 PM" src="https://github.com/zac-webel/influenza-11M/assets/118777665/bd819368-2315-4b64-8b33-472cce78bd44">
+
+# Encoder layer 1 attention scores
+<img width="564" alt="Screen Shot 2023-07-10 at 9 08 21 PM" src="https://github.com/zac-webel/influenza-11M/assets/118777665/22c6a280-97bc-49dd-8137-ff4a5254a028">
+
+# Encoder layer 2 attention scores
+<img width="556" alt="Screen Shot 2023-07-10 at 9 09 34 PM" src="https://github.com/zac-webel/influenza-11M/assets/118777665/910a8af6-612e-4cce-b189-2408e2935238">
+
+# Encoder layer 3 attention scores
+<img width="553" alt="Screen Shot 2023-07-10 at 9 11 29 PM" src="https://github.com/zac-webel/influenza-11M/assets/118777665/1031a3c7-1f2a-46ec-9bd1-f51e736b44b5">
+
+# Encoder layer 4 attention scores
+<img width="554" alt="Screen Shot 2023-07-10 at 9 11 45 PM" src="https://github.com/zac-webel/influenza-11M/assets/118777665/b0a2cca7-0725-4bd4-835b-6c885fa5e249">
+
+# Encoder layer 5 attention scores
+<img width="545" alt="Screen Shot 2023-07-10 at 9 12 01 PM" src="https://github.com/zac-webel/influenza-11M/assets/118777665/724897f4-b55f-49c9-83e2-e7e85693cf7b">
+
+
 
  
