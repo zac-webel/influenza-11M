@@ -1,7 +1,9 @@
 # influenza-11M
 Sequence to sequence model generating predicted evolution in the influenza genome. Trained soley on influenza B Yamagata-lineage and generalizes to influenza B Victoria-lineage.
 
-<img src="https://github.com/zac-webel/influenza-11M/assets/118777665/6b9fc254-d859-47e4-9b90-43da3de39ee5" alt="image" width="400" height="300" />
+<img src="https://github.com/zac-webel/influenza-11M/assets/118777665/6b9fc254-d859-47e4-9b90-43da3de39ee5" alt="image" width="400" height="400" />
+
+<img src="[https://github.com/zac-webel/influenza-11M/assets/118777665/6b9fc254-d859-47e4-9b90-43da3de39ee5](https://github.com/zac-webel/influenza-11M/assets/118777665/f5fd6a40-37b8-4b0a-a513-418631b9b619)" alt="image" width="400" height="400" />
 
 
 # About
