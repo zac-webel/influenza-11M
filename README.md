@@ -21,7 +21,7 @@ This is my resarch capstone project in partnership with the Food and Drug Admini
 
 # Inference 
 * Encoder input: Gene from influenza B
-* Decoder input: padded [<start>] sequence
+* Decoder input: padded "[<start>]" sequence
 
 <img width="1296" alt="Screen Shot 2023-07-10 at 9 05 36 PM" src="https://github.com/zac-webel/influenza-11M/assets/118777665/bd819368-2315-4b64-8b33-472cce78bd44">
 
