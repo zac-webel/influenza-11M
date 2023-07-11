@@ -1,5 +1,5 @@
 # influenza-11M
-Sequence to sequence model generating predicted evolution in the influenza genome.
+Sequence to sequence model generating predicted evolution in the influenza genome. Trained soley on influenza B Yamagata-lineage and generalizes to influenza B Victoria-lineage.
 
 ![image](https://github.com/zac-webel/influenza-11M/assets/118777665/6b9fc254-d859-47e4-9b90-43da3de39ee5)
 
@@ -9,3 +9,12 @@ This is my resarch capstone project in partnership with the Food and Drug Admini
 * The ability to analyze the attention scores of the transformed input (base) sequence to understand what the attention mechanism deems as signal in the prediction.
 * The ability to analzye a long sequence length (max_length = 2410 tokens)
 * Simple architecture that can scale to millions of parameters while training under two hours
+
+# Model
+* Total params: 10,716,168
+* Trained on Yamagata lineage ... tested on Victoria lineage
+* Train (sparse_categorical_crossentropy): loss: 0.1610 - accuracy: 0.9602
+* Test: loss: 0.2173 - accuracy: 0.9465
+* Epochs: 1
+* Batch size: 1
+* Train time 4968s on Kaggle P100
