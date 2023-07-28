@@ -16,11 +16,11 @@ This is my resarch capstone project in partnership with the Food and Drug Admini
 # Model
 * Total params: 10,716,168
 * Trained on Yamagata lineage ... tested on Victoria lineage
-* Train (sparse_categorical_crossentropy): loss: 0.1610 - accuracy: 0.9602
-* Test: loss: 0.2173 - accuracy: 0.9465
+* Train (sparse_categorical_crossentropy): loss: 0.1829 - accuracy: 0.9529
+* Test: loss: 0.3175 - accuracy: 0.9196
 * Epochs: 1
 * Batch size: 1
-* Train time 4968s on Kaggle P100
+* Train time 5700 on Kaggle P100
 
 # Inference 
 * Encoder input: Gene from influenza B
